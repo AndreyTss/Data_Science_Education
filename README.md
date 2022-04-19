@@ -17,15 +17,15 @@
 Очевидно, нормальное количество лекций в университете, семинары и домашки:
 ###### Ну, тут сказать нечего, **база**
 + [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/programs/hse-corona-response-5-humnb?authProvider=hse&collectionId=Ecid9&productId=7A1yFTaREeWWBQrVFXqd1w&productType=course&showMiniModal=true)
-+ [Numpy](https://github.com/AndreyTss/Machine_Learning_Education/blob/master/HW_01/hw01-numpy_solved.ipynb/)
-+ [Pandas](https://github.com/AndreyTss/Machine_Learning_Education/blob/master/HW_02/hw02_pandas_solved.ipynb/)
++ [Numpy](https://github.com/AndreyTss/Machine_Learning_Education/blob/master/Machine_Learning/HW_01/hw01-numpy_solved.ipynb/)
++ [Pandas](https://github.com/AndreyTss/Machine_Learning_Education/blob/master/Machine_Learning/HW_02/hw02_pandas_solved.ipynb/)
 
 ###### Дальше пошли более интересные выщи, готовящие к настоящему анализу данных:
-+ [Подготовка данных. Matplotlib. Попытка вывести формулу для первого предсказания](https://github.com/AndreyTss/Machine_Learning_Education/blob/master/HW_03/hw03-EDA_solved.ipynb)
++ [Подготовка данных. Matplotlib. Попытка вывести формулу для первого предсказания](https://github.com/AndreyTss/Machine_Learning_Education/blob/master/Machine_Learning/HW_03/hw03-EDA_solved.ipynb/)
 
 ###### Пошла жара: первые метрики и классификаторы:
-+ [Знакомство с Sklearn. kNN. Линейные модели. Работа с признаками](https://github.com/AndreyTss/Machine_Learning_Education/blob/master/HW_04/hw04-sklearn-knn-linreg_solved.ipynb)
-+ [Матрицы, градиентный спуск, его применение в линейной регрессии](https://github.com/AndreyTss/Machine_Learning_Education/blob/master/HW_05/hw05_gd_solved.ipynb)
++ [Знакомство с Sklearn. kNN. Линейные модели. Работа с признаками](https://github.com/AndreyTss/Machine_Learning_Education/blob/master/Machine_Learning/HW_04/hw04-sklearn-knn-linreg_solved.ipynb/)
++ [Матрицы, градиентный спуск, его применение в линейной регрессии](https://github.com/AndreyTss/Machine_Learning_Education/blob/master/Machine_Learning/HW_05/hw05_gd_solved.ipynb/)
 
 В целом, на данный момент это все, не сильно много, но я начинаю втягиваться.
 
