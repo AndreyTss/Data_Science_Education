@@ -19,4 +19,4 @@
 + [Pandas](https://github.com/AndreyTss/Machine_Learning_Education/blob/master/HW_02/hw02_pandas_solved.ipynb/)
 
 Дальше пошли более интересные выщи, готовящие к настоящему анализу данных:
-+[Подготовка данных, matplotlib, попытка вывести формулу для предсказания](https://github.com/AndreyTss/Machine_Learning_Education/blob/master/HW_03/hw03-EDA_solved.ipynb)
++ [Подготовка данных, matplotlib, попытка вывести формулу для предсказания](https://github.com/AndreyTss/Machine_Learning_Education/blob/master/HW_03/hw03-EDA_solved.ipynb)
